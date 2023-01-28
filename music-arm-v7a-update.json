@@ -1,6 +1,6 @@
 {
-  "version": "v5.39.52",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/shuxtyn/revanced-magisk-module/releases/download/9/music-revanced-magisk-v5.39.52-arm-v7a.zip",
+  "version": "v5.40.51",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/shuxtyn/revanced-magisk-module/releases/download/10/music-revanced-magisk-v5.40.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/shuxtyn/revanced-magisk-module/update/build.md"
 }
